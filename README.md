@@ -1,2 +1,1 @@
-Web Developer
 manuelradaljac.com
